@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+#container{
+    background-color: aqua;
+    height: 50vh;
+    width: 50vh;
+}
